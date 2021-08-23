@@ -1,0 +1,14 @@
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.exe
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.deps.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.runtimeconfig.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.runtimeconfig.dev.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.dll
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.pdb
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.csproj.AssemblyReference.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.AssemblyInfoInputs.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.AssemblyInfo.cs
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.dll
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.pdb
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.genruntimeconfig.cache

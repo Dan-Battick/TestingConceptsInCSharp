@@ -1,0 +1,14 @@
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataPersistence\bin\Debug\netcoreapp3.1\KataPersistence.exe
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataPersistence\bin\Debug\netcoreapp3.1\KataPersistence.deps.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataPersistence\bin\Debug\netcoreapp3.1\KataPersistence.runtimeconfig.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataPersistence\bin\Debug\netcoreapp3.1\KataPersistence.runtimeconfig.dev.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataPersistence\bin\Debug\netcoreapp3.1\KataPersistence.dll
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataPersistence\bin\Debug\netcoreapp3.1\KataPersistence.pdb
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataPersistence\obj\Debug\netcoreapp3.1\KataPersistence.csproj.AssemblyReference.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataPersistence\obj\Debug\netcoreapp3.1\KataPersistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataPersistence\obj\Debug\netcoreapp3.1\KataPersistence.AssemblyInfoInputs.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataPersistence\obj\Debug\netcoreapp3.1\KataPersistence.AssemblyInfo.cs
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataPersistence\obj\Debug\netcoreapp3.1\KataPersistence.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataPersistence\obj\Debug\netcoreapp3.1\KataPersistence.dll
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataPersistence\obj\Debug\netcoreapp3.1\KataPersistence.pdb
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataPersistence\obj\Debug\netcoreapp3.1\KataPersistence.genruntimeconfig.cache

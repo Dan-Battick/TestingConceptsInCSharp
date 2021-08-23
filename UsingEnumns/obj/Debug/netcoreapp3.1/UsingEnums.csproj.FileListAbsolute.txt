@@ -1,0 +1,14 @@
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingEnumns\bin\Debug\netcoreapp3.1\UsingEnums.exe
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingEnumns\bin\Debug\netcoreapp3.1\UsingEnums.deps.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingEnumns\bin\Debug\netcoreapp3.1\UsingEnums.runtimeconfig.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingEnumns\bin\Debug\netcoreapp3.1\UsingEnums.runtimeconfig.dev.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingEnumns\bin\Debug\netcoreapp3.1\UsingEnums.dll
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingEnumns\bin\Debug\netcoreapp3.1\UsingEnums.pdb
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingEnumns\obj\Debug\netcoreapp3.1\UsingEnums.csproj.AssemblyReference.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingEnumns\obj\Debug\netcoreapp3.1\UsingEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingEnumns\obj\Debug\netcoreapp3.1\UsingEnums.AssemblyInfoInputs.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingEnumns\obj\Debug\netcoreapp3.1\UsingEnums.AssemblyInfo.cs
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingEnumns\obj\Debug\netcoreapp3.1\UsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingEnumns\obj\Debug\netcoreapp3.1\UsingEnums.dll
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingEnumns\obj\Debug\netcoreapp3.1\UsingEnums.pdb
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingEnumns\obj\Debug\netcoreapp3.1\UsingEnums.genruntimeconfig.cache

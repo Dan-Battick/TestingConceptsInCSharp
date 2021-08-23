@@ -1,0 +1,14 @@
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingStructs\bin\Debug\netcoreapp3.1\UsingStructs.exe
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingStructs\bin\Debug\netcoreapp3.1\UsingStructs.deps.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingStructs\bin\Debug\netcoreapp3.1\UsingStructs.runtimeconfig.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingStructs\bin\Debug\netcoreapp3.1\UsingStructs.runtimeconfig.dev.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingStructs\bin\Debug\netcoreapp3.1\UsingStructs.dll
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingStructs\bin\Debug\netcoreapp3.1\UsingStructs.pdb
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingStructs\obj\Debug\netcoreapp3.1\UsingStructs.csproj.AssemblyReference.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingStructs\obj\Debug\netcoreapp3.1\UsingStructs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingStructs\obj\Debug\netcoreapp3.1\UsingStructs.AssemblyInfoInputs.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingStructs\obj\Debug\netcoreapp3.1\UsingStructs.AssemblyInfo.cs
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingStructs\obj\Debug\netcoreapp3.1\UsingStructs.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingStructs\obj\Debug\netcoreapp3.1\UsingStructs.dll
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingStructs\obj\Debug\netcoreapp3.1\UsingStructs.pdb
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingStructs\obj\Debug\netcoreapp3.1\UsingStructs.genruntimeconfig.cache

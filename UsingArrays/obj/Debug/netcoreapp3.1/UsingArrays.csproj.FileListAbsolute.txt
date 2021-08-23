@@ -1,0 +1,13 @@
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\bin\Debug\netcoreapp3.1\UsingArrays.exe
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\bin\Debug\netcoreapp3.1\UsingArrays.deps.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\bin\Debug\netcoreapp3.1\UsingArrays.runtimeconfig.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\bin\Debug\netcoreapp3.1\UsingArrays.runtimeconfig.dev.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\bin\Debug\netcoreapp3.1\UsingArrays.dll
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\bin\Debug\netcoreapp3.1\UsingArrays.pdb
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\obj\Debug\netcoreapp3.1\UsingArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\obj\Debug\netcoreapp3.1\UsingArrays.AssemblyInfoInputs.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\obj\Debug\netcoreapp3.1\UsingArrays.AssemblyInfo.cs
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\obj\Debug\netcoreapp3.1\UsingArrays.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\obj\Debug\netcoreapp3.1\UsingArrays.dll
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\obj\Debug\netcoreapp3.1\UsingArrays.pdb
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\obj\Debug\netcoreapp3.1\UsingArrays.genruntimeconfig.cache

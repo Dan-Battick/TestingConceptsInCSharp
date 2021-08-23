@@ -1,0 +1,14 @@
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingSwitchWithTryCatch\bin\Debug\netcoreapp3.1\UsingSwitchWithTryCatch.exe
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingSwitchWithTryCatch\bin\Debug\netcoreapp3.1\UsingSwitchWithTryCatch.deps.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingSwitchWithTryCatch\bin\Debug\netcoreapp3.1\UsingSwitchWithTryCatch.runtimeconfig.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingSwitchWithTryCatch\bin\Debug\netcoreapp3.1\UsingSwitchWithTryCatch.runtimeconfig.dev.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingSwitchWithTryCatch\bin\Debug\netcoreapp3.1\UsingSwitchWithTryCatch.dll
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingSwitchWithTryCatch\bin\Debug\netcoreapp3.1\UsingSwitchWithTryCatch.pdb
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingSwitchWithTryCatch\obj\Debug\netcoreapp3.1\UsingSwitchWithTryCatch.csproj.AssemblyReference.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingSwitchWithTryCatch\obj\Debug\netcoreapp3.1\UsingSwitchWithTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingSwitchWithTryCatch\obj\Debug\netcoreapp3.1\UsingSwitchWithTryCatch.AssemblyInfoInputs.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingSwitchWithTryCatch\obj\Debug\netcoreapp3.1\UsingSwitchWithTryCatch.AssemblyInfo.cs
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingSwitchWithTryCatch\obj\Debug\netcoreapp3.1\UsingSwitchWithTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingSwitchWithTryCatch\obj\Debug\netcoreapp3.1\UsingSwitchWithTryCatch.dll
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingSwitchWithTryCatch\obj\Debug\netcoreapp3.1\UsingSwitchWithTryCatch.pdb
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingSwitchWithTryCatch\obj\Debug\netcoreapp3.1\UsingSwitchWithTryCatch.genruntimeconfig.cache
