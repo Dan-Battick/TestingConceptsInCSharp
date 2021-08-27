@@ -11,4 +11,3 @@ C:\Users\Daniel Battick\source\repos\Tutorial Tests\BankProject\obj\Debug\netcor
 C:\Users\Daniel Battick\source\repos\Tutorial Tests\BankProject\obj\Debug\netcoreapp3.1\BankProject.dll
 C:\Users\Daniel Battick\source\repos\Tutorial Tests\BankProject\obj\Debug\netcoreapp3.1\BankProject.pdb
 C:\Users\Daniel Battick\source\repos\Tutorial Tests\BankProject\obj\Debug\netcoreapp3.1\BankProject.genruntimeconfig.cache
-C:\Users\Daniel Battick\source\repos\Tutorial Tests\BankProject\obj\Debug\netcoreapp3.1\BankProject.csproj.AssemblyReference.cache

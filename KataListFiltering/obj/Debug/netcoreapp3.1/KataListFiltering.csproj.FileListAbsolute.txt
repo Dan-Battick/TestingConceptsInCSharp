@@ -1,0 +1,14 @@
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataListFiltering\bin\Debug\netcoreapp3.1\KataListFiltering.exe
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataListFiltering\bin\Debug\netcoreapp3.1\KataListFiltering.deps.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataListFiltering\bin\Debug\netcoreapp3.1\KataListFiltering.runtimeconfig.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataListFiltering\bin\Debug\netcoreapp3.1\KataListFiltering.runtimeconfig.dev.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataListFiltering\bin\Debug\netcoreapp3.1\KataListFiltering.dll
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataListFiltering\bin\Debug\netcoreapp3.1\KataListFiltering.pdb
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataListFiltering\obj\Debug\netcoreapp3.1\KataListFiltering.csproj.AssemblyReference.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataListFiltering\obj\Debug\netcoreapp3.1\KataListFiltering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataListFiltering\obj\Debug\netcoreapp3.1\KataListFiltering.AssemblyInfoInputs.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataListFiltering\obj\Debug\netcoreapp3.1\KataListFiltering.AssemblyInfo.cs
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataListFiltering\obj\Debug\netcoreapp3.1\KataListFiltering.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataListFiltering\obj\Debug\netcoreapp3.1\KataListFiltering.dll
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataListFiltering\obj\Debug\netcoreapp3.1\KataListFiltering.pdb
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\KataListFiltering\obj\Debug\netcoreapp3.1\KataListFiltering.genruntimeconfig.cache

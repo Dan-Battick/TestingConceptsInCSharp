@@ -11,3 +11,4 @@ C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\obj\Debug\netcor
 C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\obj\Debug\netcoreapp3.1\UsingArrays.dll
 C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\obj\Debug\netcoreapp3.1\UsingArrays.pdb
 C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\obj\Debug\netcoreapp3.1\UsingArrays.genruntimeconfig.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingArrays\obj\Debug\netcoreapp3.1\UsingArrays.csproj.AssemblyReference.cache
