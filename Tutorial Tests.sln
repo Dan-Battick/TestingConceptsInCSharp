@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingStructs", "UsingStruct
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KataPersistence", "KataPersistence\KataPersistence.csproj", "{AEDC5B11-5368-4253-B771-9144E1686F33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataListFiltering", "KataListFiltering\KataListFiltering.csproj", "{460459FF-4AEC-457B-B7C3-D05EAE3A7EAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KataListFiltering", "KataListFiltering\KataListFiltering.csproj", "{460459FF-4AEC-457B-B7C3-D05EAE3A7EAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingLinq", "UsingLinq\UsingLinq.csproj", "{C29AAD7D-4C48-4DA5-917A-CBAC66DE77A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{460459FF-4AEC-457B-B7C3-D05EAE3A7EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{460459FF-4AEC-457B-B7C3-D05EAE3A7EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{460459FF-4AEC-457B-B7C3-D05EAE3A7EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C29AAD7D-4C48-4DA5-917A-CBAC66DE77A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29AAD7D-4C48-4DA5-917A-CBAC66DE77A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29AAD7D-4C48-4DA5-917A-CBAC66DE77A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29AAD7D-4C48-4DA5-917A-CBAC66DE77A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

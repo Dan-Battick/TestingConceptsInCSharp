@@ -1,0 +1,14 @@
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingLinq\bin\Debug\netcoreapp3.1\UsingLinq.exe
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingLinq\bin\Debug\netcoreapp3.1\UsingLinq.deps.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingLinq\bin\Debug\netcoreapp3.1\UsingLinq.runtimeconfig.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingLinq\bin\Debug\netcoreapp3.1\UsingLinq.runtimeconfig.dev.json
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingLinq\bin\Debug\netcoreapp3.1\UsingLinq.dll
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingLinq\bin\Debug\netcoreapp3.1\UsingLinq.pdb
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingLinq\obj\Debug\netcoreapp3.1\UsingLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingLinq\obj\Debug\netcoreapp3.1\UsingLinq.AssemblyInfoInputs.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingLinq\obj\Debug\netcoreapp3.1\UsingLinq.AssemblyInfo.cs
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingLinq\obj\Debug\netcoreapp3.1\UsingLinq.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingLinq\obj\Debug\netcoreapp3.1\UsingLinq.dll
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingLinq\obj\Debug\netcoreapp3.1\UsingLinq.pdb
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingLinq\obj\Debug\netcoreapp3.1\UsingLinq.genruntimeconfig.cache
+C:\Users\Daniel Battick\source\repos\Tutorial Tests\UsingLinq\obj\Debug\netcoreapp3.1\UsingLinq.csproj.AssemblyReference.cache
